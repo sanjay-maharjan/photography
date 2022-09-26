@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://sanjay-maharjan.github.io/photography/gallery/"  
-  - JOURNAL: "https://sanjay-maharjan.github.io/photography/journal/"
+  # JOURNAL: "https://sanjay-maharjan.github.io/photography/journal/"
   - ABOUT: "https://sanjay-maharjan.github.io/photography/about/"
 
 # All translation keys
