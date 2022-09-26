@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: PHOTOGRAPHY
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://sanjay-maharjan.github.io"
+baseurl: "/photography"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   photography
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography website 
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://sanjay-maharjan.github.io/photography/gallery/"  
+  - JOURNAL: "https://sanjay-maharjan.github.io/photography/journal/"
+  - ABOUT: "https://sanjay-maharjan.github.io/photography/about/"
 
 # All translation keys
 translations:
