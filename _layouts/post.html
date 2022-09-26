@@ -29,7 +29,7 @@ layout: default
                     {% endif %}
                     <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 
-<span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
+<!--<span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
 
 {% assign minutes = content | number_of_words | divided_by: 180 %}
 <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
@@ -44,7 +44,7 @@ layout: default
   {% if post.categories.size > 0 %}
    &sim; Filed in <i class="fa fa-briefcase"></i>{% if post.categories.size == 1 %} {% else %}{% endif %}&nbsp;:&nbsp;{% for tag in page.categories %}<a href="{{ site.baseurl }}/journal/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}    
                     
-   </span>
+   </span>-->
 
             </div>
         </div>
