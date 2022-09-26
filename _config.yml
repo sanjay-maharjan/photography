@@ -2,7 +2,7 @@
 title: PHOTOGRAPHY
 email: ""
 description: "Photo Journal"
-url: "https://sanjay-maharjan.github.io"
+url: "https://sanjyzshot-production.github.io"
 baseurl: "/photography"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sanjay-maharjan.github.io/photography/gallery/"  
-  # JOURNAL: "https://sanjay-maharjan.github.io/photography/journal/"
-  - ABOUT: "https://sanjay-maharjan.github.io/photography/about/"
+  - GALLERY: "https://sanjyzshot-production.github.io/photography/gallery/"  
+  # JOURNAL: "https://sanjyzshot-production.github.io/photography/journal/"
+  - ABOUT: "https://sanjyzshot-production.github.io/photography/about/"
 
 # All translation keys
 translations:
