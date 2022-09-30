@@ -93,6 +93,9 @@ hr.small {
   .navbar-custom .nav li a:hover{
     color: #0085a1;
   }
+  .position-absolute h2, strong {
+  font-size:20px;
+  }
 }
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
@@ -165,10 +168,6 @@ hr.small {
 .intro-header .site-heading,
 .intro-header .page-heading {
   text-align: center;
-}
-
-.position-absolute h2 {
-  font-size:20px;
 }
 
 .intro-header .site-heading h1,
